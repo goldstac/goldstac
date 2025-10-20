@@ -1,33 +1,30 @@
-About Me
-Interest: AI & Technology
-Experience: 1 year of hands-on coding & projects
+# About Me
 
-Languages I Know:
+**Interest:** AI & Technology  
+**Experience:** 1 year of hands-on coding & projects  
 
-Basic C
+---
 
-Tiny bit of Assembly
+### 🧠 Languages I Know
+- Basic C  
+- Tiny bit of Assembly  
+- Basic Python  
 
-Basic Python
+---
 
-Languages & Projects I Use AI For:
+### 🤖 Languages & Projects I Use AI For
+- Python (big projects)  
+- HTML, CSS, JavaScript, TypeScript, React (website development)  
 
-Python (big projects)
+---
 
-HTML, CSS, JavaScript, TypeScript, React (website development)
+### ⚙️ Skills
+- Basic Linux  
+- Website development  
+- AI experimentation  
+- Medium proficiency at using AI and communicating with it  
+- Coding projects  
 
-Skills:
+---
 
-Basic Linux
-
-Website development
-
-AI experimentation
-
-Medium proficiency at using AI and communicating with it
-
-Coding projects
-
-Approach: Always explore, experiment, and understand what AI creates 😄
-
-<img src="cat-typing.gif" alt="Cat Typing GIF" width="100">
+**Approach:** Always explore, experiment, and understand what AI creates 😄
