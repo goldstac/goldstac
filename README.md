@@ -1,4 +1,33 @@
-I'm an AI and tech enthusiast with a year of hands-on coding and project experience. I enjoy experimenting with Python, building websites, and exploring new projects. I leverage AI in my work and always try to understand what it creates for me.
+About Me
+Interest: AI & Technology
+Experience: 1 year of hands-on coding & projects
 
+Languages I Know:
+
+Basic C
+
+Tiny bit of Assembly
+
+Basic Python
+
+Languages & Projects I Use AI For:
+
+Python (big projects)
+
+HTML, CSS, JavaScript, TypeScript, React (website development)
+
+Skills:
+
+Basic Linux
+
+Website development
+
+AI experimentation
+
+Medium proficiency at using AI and communicating with it
+
+Coding projects
+
+Approach: Always explore, experiment, and understand what AI creates 😄
 
 <img src="cat-typing.gif" alt="Cat Typing GIF" width="100">
