@@ -34,7 +34,7 @@
 ---
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldstac&layout=compact&theme=radical&langs_count=12&cache_seconds=1&t=TIMESTAMP)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldstac&layout=compact&theme=radical&langs_count=12&v=2)
 
 
 
