@@ -1,4 +1,5 @@
 <image src="https://gitfut.com/goldstac.png" width="200px" height="400px"></image>
+### Building in the open. Linux enthusiast, open-source advocate, and heavy AI-native developer. 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LIProductions_)
 
