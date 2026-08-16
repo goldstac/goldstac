@@ -22,24 +22,34 @@
   <img src="https://komarev.com/ghpvc/?username=goldstac&style=for-the-badge&color=FFD700" alt="Profile views" />
 </div>
 
-## ⚡ Tech Stack
+## 🧰 Main Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnubash&logoColor=black&style=for-the-badge" alt="Bash" />
+  <img src="https://img.shields.io/badge/Zsh-%23F15A24.svg?logo=zsh&logoColor=white&style=for-the-badge" alt="Zsh" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?logo=svelte&logoColor=white&style=for-the-badge" alt="Svelte" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white&style=for-the-badge" alt="NeoVim" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/opencode-%2300CCBB?style=for-the-badge" alt="opencode" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+</div>
+
+<div align="center">
+  <i>"I don't stick to one stack — I do everything, and I try everything."</i> — goldstac
 </div>
 
 ## 💫 Vibe Check
 
 <div align="center">
   <img src="https://img.shields.io/badge/i%20use%20arch-btw-%231793D1?style=for-the-badge" alt="i use arch btw" />
-  <img src="https://img.shields.io/badge/coffee%20powered-%236F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="coffee powered" />
   <img src="https://img.shields.io/badge/open%20source%20%E2%9D%A4%EF%B8%8F-%23FFD700?style=for-the-badge" alt="open source" />
   <img src="https://img.shields.io/badge/AI%20native-%F0%9F%A4%96-black?style=for-the-badge" alt="AI native" />
   <img src="https://img.shields.io/badge/ships%20fast-%F0%9F%9A%80-%23E8A33D?style=for-the-badge" alt="ships fast" />
