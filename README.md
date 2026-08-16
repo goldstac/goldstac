@@ -27,6 +27,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
+  <img src="https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnubash&logoColor=black&style=for-the-badge" alt="Bash" />
   <img src="https://img.shields.io/badge/Zsh-%23F15A24.svg?logo=zsh&logoColor=white&style=for-the-badge" alt="Zsh" />
@@ -35,7 +36,7 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white&style=for-the-badge" alt="NeoVim" />
   <img src="https://img.shields.io/badge/Vim-%23019733.svg?logo=vim&logoColor=white&style=for-the-badge" alt="Vim" />
-  <img src="https://img.shields.io/badge/Zed-%23FFFFFF?logo=zed&logoColor=black&style=for-the-badge" alt="Zed" />
+  <img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=for-the-badge" alt="Zed" />
   <img src="https://img.shields.io/badge/opencode-%23000000?style=for-the-badge&logo=opencode&logoColor=ffffff" alt="opencode" />
 </div>
 
