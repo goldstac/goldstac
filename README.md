@@ -6,6 +6,10 @@
   <i>Building in the open — Linux enthusiast, open-source advocate, and heavy AI-native developer.</i>
 </div>
 
+<div align="center">
+  <blockquote><i>"Not sure if I'm good — I just do me, and I do fun stuff."</i><br /><b>— goldstac</b></blockquote>
+</div>
+
 ## 🌐 Socials
 
 <div align="center">
