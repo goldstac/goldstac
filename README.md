@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <i>Building in the open — Linux enthusiast, open-source advocate, and heavy AI-native developer.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+in+the+open+%E2%80%A6;Linux+enthusiast+%F0%9F%90%A7;Open-source+advocate+%F0%9F%8C%90;Heavy+AI-native+developer+%F0%9F%A4%96;i+use+arch%2C+btw" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,6 +20,12 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=goldstac&style=for-the-badge&color=FFD700" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/goldstac?style=for-the-badge&logo=github&color=FFD700&label=Followers&logoColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/goldstac?style=for-the-badge&logo=github&color=FFD700&label=Stars&logoColor=black" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/goldstac?style=for-the-badge&logo=github&color=FFD700&label=Repos&logoColor=black" alt="Repos" />
 </div>
 
 ## 🧰 Main Tech Stack
@@ -74,14 +80,52 @@
   </table>
 </div>
 
+## 🚀 Featured
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/goldstac/talon-apex-simulation">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=goldstac&repo=talon-apex-simulation&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true" alt="talon-apex-simulation" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/goldstac/donations">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=goldstac&repo=donations&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true" alt="donations" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=goldstac&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=goldstac&theme=dark&hide_border=false" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api?username=goldstac&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=goldstac&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&hide_border=true" alt="GitHub streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&hide_border=true&layout=compact&include_all_commits=true&count_private=false" alt="Top languages" />
+      </td>
+      <td>
+        <img src="https://github-stats-alpha.vercel.app/api?username=goldstac&cc=FFD700&tc=C9D1D9&ic=FFD700&bc=0D1117" alt="Profile stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldstac&bg_color=0D1117&color=FFD700&line=B8860B&point=FFD700&area=true&area_color=FFD700&hide_border=true&title=Contribution%20Graph&title_color=FFD700" alt="Contribution graph" />
 </div>
 
 <div align="center">✦ ✦ ✦</div>
