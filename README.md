@@ -33,13 +33,10 @@
   <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?logo=svelte&logoColor=white&style=for-the-badge" alt="Svelte" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white&style=for-the-badge" alt="NeoVim" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/opencode-%2300CCBB?style=for-the-badge" alt="opencode" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Vim-%23019733.svg?logo=vim&logoColor=white&style=for-the-badge" alt="Vim" />
+  <img src="https://img.shields.io/badge/Zed-%23FFFFFF?logo=zed&logoColor=black&style=for-the-badge" alt="Zed" />
+  <img src="https://img.shields.io/badge/opencode-%23000000?style=for-the-badge&logo=opencode&logoColor=ffffff" alt="opencode" />
 </div>
 
 <div align="center">
