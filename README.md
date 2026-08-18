@@ -79,11 +79,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=goldstac&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=goldstac&theme=dark&hide_border=false&include_all_commits=true&count_private=false&_cb=1" alt="GitHub stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=goldstac&theme=dark&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=goldstac&theme=dark&hide_border=false&date_format=M%20j%2C%20Y" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&_cb=1" alt="Top languages" />
 </div>
 
 <div align="center">✦ ✦ ✦</div>
