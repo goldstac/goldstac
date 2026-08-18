@@ -22,13 +22,6 @@
   <a href="https://instagram.com/liproductions.dev">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=goldstac&style=for-the-badge&color=FFD700" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/goldstac?style=for-the-badge&logo=github&color=FFD700&label=Followers&logoColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/goldstac?style=for-the-badge&logo=github&color=FFD700&label=Stars&logoColor=black" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/goldstac?style=for-the-badge&logo=github&color=FFD700&label=Repos&logoColor=black" alt="Repos" />
 </div>
 
 ## 🧰 Main Tech Stack
