@@ -19,6 +19,9 @@
   <a href="https://x.com/LIProductions_">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" />
   </a>
+  <a href="https://instagram.com/liproductions.dev">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=goldstac&style=for-the-badge&color=FFD700" alt="Profile views" />
 </div>
 
