@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <i>Building in the open — Linux enthusiast, open-source advocate, and heavy AI-native developer.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+in+the+open+%E2%80%A6;Linux+enthusiast+%F0%9F%90%A7;Open-source+advocate+%F0%9F%8C%90;Heavy+AI-native+developer+%F0%9F%A4%96;i+use+arch%2C+btw" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -76,14 +76,69 @@
   </table>
 </div>
 
+## 🚀 Featured
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/goldstac/talon-apex-simulation">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=goldstac&repo=talon-apex-simulation&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true" alt="talon-apex-simulation" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/goldstac/donations">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=goldstac&repo=donations&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true" alt="donations" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🏢 Organization
+
+<div align="center">
+  <a href="https://github.com/Synthera-Qr">
+    <img src="https://img.shields.io/badge/Synthera_Qr-%230D1117?style=for-the-badge&logo=github&logoColor=white" alt="Synthera-Qr" />
+  </a>
+  <br />
+  <i>Ultra-modern QR code generation — web and terminal.</i>
+  <br /><br />
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Synthera-Qr/SyntheraQr">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Synthera-Qr&repo=SyntheraQr&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true" alt="SyntheraQr" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Synthera-Qr/synthera-qr-cli">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Synthera-Qr&repo=synthera-qr-cli&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true" alt="synthera-qr-cli" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=goldstac&theme=dark&hide_border=false&include_all_commits=true&count_private=false&_cb=1" alt="GitHub stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=goldstac&theme=dark&hide_border=false&date_format=M%20j%2C%20Y" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&_cb=1" alt="Top languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api?username=goldstac&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&hide_border=true&layout=compact&include_all_commits=true&count_private=false" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldstac&bg_color=0D1117&color=FFD700&line=B8860B&point=FFD700&area=true&area_color=FFD700&hide_border=true&title=Contribution%20Graph&title_color=FFD700" alt="Contribution graph" />
 </div>
 
 <div align="center">✦ ✦ ✦</div>
