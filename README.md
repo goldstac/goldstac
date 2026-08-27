@@ -129,15 +129,7 @@
         <img src="https://github-readme-stats.shion.dev/api?username=goldstac&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=goldstac&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&hide_border=true" alt="GitHub streak" />
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&hide_border=true&layout=compact&include_all_commits=true&count_private=false" alt="Top languages" />
-      </td>
-      <td>
-        <img src="https://github-stats-alpha.vercel.app/api?username=goldstac&cc=FFD700&tc=C9D1D9&ic=FFD700&bc=0D1117" alt="Profile stats" />
       </td>
     </tr>
   </table>
