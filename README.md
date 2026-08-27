@@ -95,6 +95,31 @@
   </table>
 </div>
 
+## 🏢 Organization
+
+<div align="center">
+  <a href="https://github.com/Synthera-Qr">
+    <img src="https://img.shields.io/badge/Synthera_Qr-%230D1117?style=for-the-badge&logo=github&logoColor=white" alt="Synthera-Qr" />
+  </a>
+  <br />
+  <i>Ultra-modern QR code generation — web and terminal.</i>
+  <br /><br />
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Synthera-Qr/SyntheraQr">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Synthera-Qr&repo=SyntheraQr&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true" alt="SyntheraQr" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Synthera-Qr/synthera-qr-cli">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Synthera-Qr&repo=synthera-qr-cli&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true" alt="synthera-qr-cli" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
