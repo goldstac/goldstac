@@ -48,9 +48,9 @@
   <i>Building smart systems and pushing the boundaries of what AI can do.</i>
   <br /><br />
   <img src="https://img.shields.io/badge/AI_Native-%F0%9F%A4%96-black?style=for-the-badge" alt="AI Native" />
-  <img src="https://img.shields.io/badge/Machine_Learning-%233776AB.svg?logo=tensorflow&logoColor=white&style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/LLM-%23FFD700?style=for-the-badge" alt="LLM" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-%23E8A33D?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/opencode-%23000000?style=for-the-badge&logo=opencode&logoColor=ffffff" alt="opencode" />
 </div>
 
 ## 💫 Vibe Check
