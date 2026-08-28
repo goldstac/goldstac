@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="goldstac — Li Productions" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+in+the+open+%E2%80%A6;Linux+enthusiast+%F0%9F%90%A7;Open-source+advocate+%F0%9F%8C%90;Heavy+AI-native+developer+%F0%9F%A4%96;i+use+arch%2C+btw" alt="Typing SVG" />
 </div>
 
@@ -44,6 +40,17 @@
 
 <div align="center">
   <i>"I don't stick to one stack — I do everything, and I try everything."</i> — goldstac
+</div>
+
+## 🤖 AI Programming Skills
+
+<div align="center">
+  <i>Building smart systems and pushing the boundaries of what AI can do.</i>
+  <br /><br />
+  <img src="https://img.shields.io/badge/AI_Native-%F0%9F%A4%96-black?style=for-the-badge" alt="AI Native" />
+  <img src="https://img.shields.io/badge/LLM-%23FFD700?style=for-the-badge" alt="LLM" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-%23E8A33D?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/opencode-%23000000?style=for-the-badge&logo=opencode&logoColor=ffffff" alt="opencode" />
 </div>
 
 ## 💫 Vibe Check
@@ -120,25 +127,10 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
+## 📊 Languages
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=goldstac&bg_color=0D1117&title_color=FFD700&icon_color=F0B90B&text_color=C9D1D9&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&hide_border=true&layout=compact&include_all_commits=true&count_private=false" alt="Top languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldstac&bg_color=0D1117&color=FFD700&line=B8860B&point=FFD700&area=true&area_color=FFD700&hide_border=true&title=Contribution%20Graph&title_color=FFD700" alt="Contribution graph" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goldstac&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&hide_border=true&layout=compact&include_all_commits=true&count_private=false" alt="Top languages" />
 </div>
 
 <div align="center">✦ ✦ ✦</div>
