@@ -5,9 +5,10 @@
     <i>Building in the open — Linux enthusiast, open-source advocate, and heavy AI-native developer.</i>
   </p>
   <p>
-    <a href="https://tiktok.com"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok" /></a>
-    <a href="https://x.com/LIProductions_"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" alt="X" /></a>
-    <a href="https://instagram.com/liproductions.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://liproductions.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=flat&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+    <a href="https://tiktok.com"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=flat" alt="TikTok" /></a>
+    <a href="https://x.com/LIProductions_"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=flat" alt="X" /></a>
+    <a href="https://instagram.com/liproductions.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" /></a>
   </p>
 </div>
 
@@ -17,17 +18,16 @@
 <tr>
 <td align="center" valign="top" width="33%">
 
-### Tech
+### Stack
 <table cellpadding="2" cellspacing="0" border="0">
-<tr><td><img src="https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white&style=flat" alt="Arch" /></td></tr>
 <tr><td><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat" alt="C" /></td></tr>
 <tr><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat" alt="C++" /></td></tr>
 <tr><td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" /></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat" alt="Rust" /></td></tr>
+<tr><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" /></td></tr>
+<tr><td><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript" /></td></tr>
 <tr><td><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=black&style=flat" alt="Bash" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat" alt="Neovim" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=flat" alt="Zed" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/opencode-black?logo=opencode&logoColor=white&style=flat" alt="opencode" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat" alt="Git" /></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=flat" alt="Svelte" /></td></tr>
 </table>
 
 </td>
@@ -38,6 +38,15 @@
 <tr><td><img src="https://img.shields.io/badge/AI-black?logo=openai&logoColor=white&style=flat" alt="AI" /></td></tr>
 <tr><td><img src="https://img.shields.io/badge/LLM-FFD700?style=flat" alt="LLM" /></td></tr>
 <tr><td><img src="https://img.shields.io/badge/Prompt%20Engineering-E8A33D?style=flat" alt="PE" /></td></tr>
+<tr><td><img src="https://img.shields.io/badge/opencode-black?logo=opencode&logoColor=white&style=flat" alt="opencode" /></td></tr>
+</table>
+
+### Tools
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><td><img src="https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white&style=flat" alt="Arch" /></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat" alt="Neovim" /></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=flat" alt="Zed" /></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat" alt="Git" /></td></tr>
 </table>
 
 </td>
