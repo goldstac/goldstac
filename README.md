@@ -4,7 +4,7 @@
 
 **[liproductions.vercel.app](https://liproductions.vercel.app)**
 
-[X](https://x.com/LIProductions_) · [Instagram](https://instagram.com/liproductions.dev) · [TikTok](https://tiktok.com)
+[X](https://x.com/LIProductions_)
 
 ## Stack
 
