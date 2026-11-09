@@ -8,7 +8,7 @@
 
 ## Stack
 
-C, C++, Python, Rust, JavaScript, TypeScript, Bash, Svelte
+C, C++, Python
 
 ## AI
 
@@ -16,7 +16,7 @@ LLMs, prompt engineering, [opencode](https://opencode.ai)
 
 ## Tools
 
-Arch Linux, Neovim, Zed, Git
+Arch Linux, Neovim, Git
 
 ## Some of my best stuff
 
@@ -26,7 +26,7 @@ Arch Linux, Neovim, Zed, Git
 
 ## Languages
 
-Mostly Python, C, and JavaScript.
+Mostly Python and C.
 
 ---
 
